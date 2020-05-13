@@ -1,11 +1,11 @@
-##Routes:
+## Routes:
 
 ### Поддерживаемые типы поиска
 > GET /api/search/{token}/get_types
 
 - token - token клиента
 
-####Example: 
+#### Example: 
  
 https://domain_name/api/search/1212312/get_types
 
@@ -15,6 +15,6 @@ https://domain_name/api/search/1212312/get_types
 
 - token - token клиента
 
-####Example: 
+#### Example: 
 
 https://domain_name/api/search/1212312?param_type1=param_value&param_type2=param_value
